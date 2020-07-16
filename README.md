@@ -8,5 +8,5 @@ Virtual Machines manager for QEMU (Windows)
 4)Rename Project1.exe as Qemulator.exe
 
 # Translating only
-1)Open FIle Qemulator.exe with Resource Hacker
+1)Open FIle Qemulator.exe with Resource Hacker.
 2)Edit RCData
