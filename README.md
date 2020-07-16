@@ -1,5 +1,4 @@
 # ‮
-
 # Qemulator
 Virtual Machines manager for QEMU (Windows).
 
@@ -13,5 +12,4 @@ Virtual Machines manager for QEMU (Windows).
 # Translating only
 1)Open FIle Qemulator.exe with Resource Hacker.
 2)Edit RCData.
-
 # ‮
