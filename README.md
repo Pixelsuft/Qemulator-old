@@ -2,7 +2,7 @@
 Virtual Machines manager for QEMU (Windows).
 
 # Building
-(this project is arleady builded).
+(this version of project is builded).
 1)Download Borland C++ Builder 6.
 2)Open this Project.
 3)Project->Build Project1.
